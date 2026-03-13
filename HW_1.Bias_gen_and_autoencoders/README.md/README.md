@@ -4,7 +4,7 @@
 Код
 
 - Часть 1 — Байесовские генераторы: [ссылка на Google Colab](https://colab.research.google.com/drive/16ULV-15FNMS7yC0ICWlaKN0c_MaKNba7?usp=sharing)
-- Часть 2 — Автоэнкодер: [ссылка на Google Colab]()
+- Часть 2 — Автоэнкодер: [ссылка на Google Colab](https://colab.research.google.com/drive/14EPu06-Bb9FTP-n6MzrfmHHeYkw2w63-?usp=sharing)
 
 Задача
 
