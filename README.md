@@ -1,1 +1,4 @@
-# DeepGen_ITMO_course_2026
+Чекпе Вефа Арианна 
+
+
+DeepGen_ITMO_course
