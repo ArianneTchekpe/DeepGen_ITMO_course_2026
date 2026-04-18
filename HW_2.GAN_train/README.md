@@ -1,4 +1,4 @@
-[Cсылка на Google Colab](https://colab.research.google.com/drive/1FtsaQvYALsEIulN_-PEnx4auWIW6XBJC?usp=sharing)
+[Cсылка на Google Colab](https://colab.research.google.com/drive/1E4hSglFydfhHl8dk3aJccwMltyjJuQ94?usp=sharing)
 
 Результаты обучения DCGAN на CelebA
 
